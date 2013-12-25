@@ -4,12 +4,6 @@ as a proof of work scheme.
  - ~84 million total coins
  - 20 coins per generated block
  - difficulty retargets every 0.20 days
- - currently peers are looked up over IRC only
- - currently no block checkpoints are in the code (but could be easily
-   added)
-Other than that, this coin is exactly like Litecoin and should by no
-means be used as a real cryptocurrency. All of the coin parameters
-are chosen arbitrarily or at most with 'fairness' towards everyone in mind.
 
 Development process
 ===================
