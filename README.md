@@ -1,12 +1,15 @@
-BinaryCoin (BIC) - a different clone of Litecoin which also uses scrypt
-as a proof of work scheme.
+BinaryCoin (BIC)
+===================
+A Scrypt cryptocurency based on litecoin
+---------------------------
+
  - 15 seconds block targets
  - ~84 million total coins
  - 20 coins per generated block
  - difficulty retargets every 0.20 days
 
 Development process
-===================
+---------------------------
 
 Developers work in their own trees, then submit pull requests when
 they think their feature or bug fix is ready.
